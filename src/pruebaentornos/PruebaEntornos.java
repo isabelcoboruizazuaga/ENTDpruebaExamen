@@ -24,6 +24,8 @@ public class PruebaEntornos {
         System.out.println("Bien, y tu? ");
         System.out.println("bien XD");
         System.out.println(":OOOOOO");
+        System.out.println("Si, creo que sabemos hacer este ejercicio");
+        System.out.println("Podemos usarlo para copiarnos en el examen jajajaja XD");
     }
     
 }
