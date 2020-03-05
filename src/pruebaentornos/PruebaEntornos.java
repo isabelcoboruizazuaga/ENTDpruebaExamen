@@ -21,6 +21,7 @@ public class PruebaEntornos {
         System.out.println("¿Hola?");
         System.out.println("Prueba again");
         System.out.println("Hola, que tal?");
+        System.out.println("Bien, y tu? ");
     }
     
 }
