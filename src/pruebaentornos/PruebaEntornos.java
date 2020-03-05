@@ -23,6 +23,7 @@ public class PruebaEntornos {
         System.out.println("Hola, que tal?");
         System.out.println("Bien, y tu? ");
         System.out.println("bien XD");
+        System.out.println(":OOOOOO");
     }
     
 }
